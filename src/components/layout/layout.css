@@ -1,0 +1,37 @@
+#root {
+   
+    
+    background: #495159;
+    color: white;
+  }
+  
+ .bot{
+  border-radius: 5px;
+  text-align: center;
+  width: 30%;
+  border: none;
+  font-size: 20px;
+  background-color: #300DD9;
+  height: 60px;
+ } 
+
+ .link{
+  color: white;
+ }
+
+ .bot:hover{
+  background-color: #0D6CD9;
+ }
+
+ .content-bottom{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20%;
+ }
+
+ h1{
+  font-size: 40px;
+  text-align: center;
+ }
+   
